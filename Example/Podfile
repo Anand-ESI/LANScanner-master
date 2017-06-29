@@ -1,0 +1,6 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'LANScanner_Example' do
+    pod 'LANScanner', :path => '../'
+end
